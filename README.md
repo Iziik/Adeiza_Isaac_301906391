@@ -1,7 +1,13 @@
-# Isaac Adeiza — MIT 8103
+# Banking accounts and transactions
 
-Student ID: 301906391
+Isaac Adeiza · Student ID 301906391
 
-Banking system
+The portfolio uses fictional records for Banking accounts and transactions.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Adeiza_Isaac_301906391_FinalSummary.md) · [PDF](Adeiza_Isaac_301906391_FinalSummary.pdf)
