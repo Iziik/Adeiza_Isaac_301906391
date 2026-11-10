@@ -10,12 +10,13 @@ This step-by-step guide shows the MIT 8103 continuous assessment. Using a Bankin
 
 ## Case Study
 
-Case study statement | Item	Description
+Case study statement | Item	Description 
+| --- | --- |
 | Organisation / scenario |	Meridian Trust Bank, a simulated retail bank with four branches and mobile, web, ATM and POS channels
 | Nature of the business |	Retail banking: accounts, deposits, withdrawals, transfers and reversals, with a permanent record of every money movement
-| Users of the database | Customers, tellers and branch managers, operations staff, auditors |
+| Users of the database |  Tellers and branch managers, operations staff, auditors |
 | Major data stored	| Customers and KYC status, branches, staff, account types, accounts and balances, transactions, ledger entries, audit trail; customer profiles and transaction events (NoSQL) |
-| Key operations	| Open account, deposit, withdraw, transfer, reverse, statement, balance reconciliation, fraud detection |
+| Key operations	| Open account, deposit, withdraw, transfer, reverse, statement, balance reconciliation, fraud detection 
 
 ## What is Included
 
@@ -31,6 +32,11 @@ The assessment is worth 40 marks. This Submissiom includes a practical database 
 | Final documentation | A 2–3-page summary covering the activities, selected case study, GitHub link, evidence, individual reflection, references and AI-use declaration where applicable | 6 |
 | Total | | 40 |
 
+## Portfolios
+
+Use the links provided below for easy navigation
+
+`Each portofolio has its pictorial evidence in its path`
 
 - [Portfolio 1](portfolio-1-database-design/)
 - [Portfolio 2](portfolio-2-query-optimisation/)
@@ -38,4 +44,6 @@ The assessment is worth 40 marks. This Submissiom includes a practical database 
 - [Portfolio 4](portfolio-4-nosql/)
 - [Portfolio 5](portfolio-5-distributed-cloud/)
 
-[Final summary](Adeiza_Isaac_301906391_FinalSummary.md) · [PDF](Adeiza_Isaac_301906391_FinalSummary.pdf)
+[Final summary](Adeiza_Isaac_301906391_FinalSummary.md)
+
+[PDF](Adeiza_Isaac_301906391_FinalSummary.pdf)
