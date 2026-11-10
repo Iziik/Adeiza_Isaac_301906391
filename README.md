@@ -1,12 +1,10 @@
-# Banking System
-
-Isaac Adeiza · Student ID 301906391
-
-The portfolio uses fictional records for Banking accounts and transactions.
-
 # MIT 8103 Advanced Database Systems Continous Assesment
 
 This step-by-step guide shows the MIT 8103 continuous assessment. Using a Banking case study for all five portfolio activities, and documented evidence of my work throughout the project phase.
+
+# Banking System
+
+The portfolio uses fictional records for Banking accounts and transactions.
 
 ## Case Study
 
