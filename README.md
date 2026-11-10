@@ -2,6 +2,8 @@
 
 This step-by-step guide shows the MIT 8103 continuous assessment. Using a Banking case study for all five portfolio activities, and documented evidence of my work throughout the project phase.
 
+[Github Link](https://github.com/Iziik/Adeiza_Isaac_301906391)
+
 # Banking System
 
 The portfolio uses fictional records for Banking accounts and transactions.
