@@ -1,4 +1,4 @@
-# Banking accounts and transactions
+# Banking System
 
 Isaac Adeiza · Student ID 301906391
 
